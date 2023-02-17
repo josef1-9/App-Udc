@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "942508006570",
+    "project_id": "quickfood-25988",
+    "storage_bucket": "quickfood-25988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942508006570:android:319cb25ac0deefdd4384d3",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942508006570-mmk3oja8es96usrdjg0e84eupev29gch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkb_sUG0PT_mnMxk4g7mHzd_Oe1mtWEtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942508006570-mmk3oja8es96usrdjg0e84eupev29gch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942508006570-q0oc9ng1vb2dghvnrg2235a6jjdhr3v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodDeliveryApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
